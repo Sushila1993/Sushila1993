@@ -16,3 +16,5 @@ openai
 
 3. enter prompt : pip install -r requirements.txt 
 4. enter the code present in main.py
+5. run below mentioned in prompt : streamlit run main.py
+6. 
