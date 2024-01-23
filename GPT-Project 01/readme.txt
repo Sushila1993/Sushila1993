@@ -17,4 +17,10 @@ openai
 3. enter prompt : pip install -r requirements.txt 
 4. enter the code present in main.py
 5. run below mentioned in prompt : streamlit run main.py
-6. 
+
+-- creating another file example.py
+this file is to add the multiple prompt variables into one of them 
+also have the memory stored
+
+File name : example.py
+
