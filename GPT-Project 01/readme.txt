@@ -24,3 +24,13 @@ also have the memory stored
 
 File name : example.py
 
+---------------------- PROJECT 02----
+File name : PromptEngineering.ipynb
+
+using single input parameter or multiple input parameter prompt
+
+how to use using LLM models
+
+-------------------PROJECT 03----------
+
+File Name: 
